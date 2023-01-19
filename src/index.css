@@ -1,0 +1,13 @@
+#main {
+    display: flex;
+    flex-direction: row;
+}
+
+#photo {
+    height: 220px;
+    width: 220px;
+}
+
+#data {
+    padding-left: 25px;
+}
